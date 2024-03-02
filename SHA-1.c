@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdint.h>
 
-//Sebasatien Ghent EEE-4748-001 Extra Credit code submission
+//EEE-4748-001 Extra Credit code submission
 //SHA-1 Interpretation
 
 
